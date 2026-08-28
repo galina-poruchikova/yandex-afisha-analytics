@@ -92,7 +92,7 @@
 - `DATE_TRUNC`
 - расчёт производных метрик и долей
 
-SQL-запросы находятся в директории [`sql`](sql/).
+SQL-запросы находятся в директории [`sql`](https://github.com/galina-poruchikova/yandex-afisha-analytics/tree/main/sql).
 
 ---
 
@@ -160,6 +160,8 @@ SQL-запросы находятся в директории [`sql`](sql/).
 - стационарных устройств.
 
 Проведено сравнение пользовательских метрик и статистическая проверка различий между группами.
+
+Jupyter Notebook с исследовательским анализом находится [здесь](https://github.com/galina-poruchikova/yandex-afisha-analytics/blob/main/python/yandex_afisha_analysis.ipynb).
 
 ---
 
