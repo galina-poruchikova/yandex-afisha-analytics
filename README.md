@@ -161,7 +161,7 @@ SQL-запросы находятся в директории [`sql`](https://gi
 
 Проведено сравнение пользовательских метрик и статистическая проверка различий между группами.
 
-Jupyter Notebook с исследовательским анализом находится [здесь](https://github.com/galina-poruchikova/yandex-afisha-analytics/blob/main/python/yandex_afisha_analysis.ipynb).
+Jupyter Notebook с исследовательским анализом находится в директории [`python`](https://github.com/galina-poruchikova/yandex-afisha-analytics/tree/main/python).
 
 ---
 
