@@ -219,7 +219,7 @@ yandex-afisha-analytics/
 │   └── 05_top_regions.sql
 │
 ├── python/
-│   └── README.md
+│   └── yandex_afisha_analysis.ipynb
 │
 ├── dashboard/
 │   └── README.md
